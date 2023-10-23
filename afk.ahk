@@ -1,7 +1,7 @@
 toggle = F12
 #MaxThreadsPerHotkey 2
-;AFK:Away From Keyboard Àá¼ö¹æÁö
-;Åä±Û»óÅÂ¿¡¼­ 120ÃÊ¸¶´Ù ff14 È°¼ºÈ­ÇÑ ÈÄ i ÀÔ·ÂÇÔ.  
+;AFK:Away From Keyboard ì ìˆ˜ë°©ì§€
+;í† ê¸€ìƒíƒœì—ì„œ 120ì´ˆë§ˆë‹¤ ff14 í™œì„±í™”í•œ í›„ i ì…ë ¥í•¨.  
 
 F12::
     Toggle := !Toggle
